@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div class="home-desktop flex flex-col items-start relative bg-[#ffffff]">
+            <div class="header relative self-stretch w-[100%] h-[692px] bg-[#f9f9f9]">
+                <div class="overlap-group relative w-[1440px] h-[692px] ">
+                    <div class="background absolute w-[1440px] h-[690px] top-0 left-0 bg-[url('https://i.postimg.cc/Wpr60KKt/figma.png')] bg-cover bg-position-[50% 50%]"></div>
+                    <div class="containe flex flex-col w-[1050px] items-start gap-[80px] py-[125px] px-[0px] absolute top-[104px] left-[195px] truncate">
+                        <div class="row inline-flex items-center gap-[120px] relative grow-0 shrink-0 basis-auto mr-[-89.00px] ">
+                            <div class="col-md w-[509px] items-start gap-[35px] flex flex-col relative">
+                                <div class="h relative w-[509px] mt-[-1.00px] font-Montserrat font-extrabold text-[#252b42] text-[58px] tracking-[0.20000000298023224px] leading-[80px] not-italic">EMPOWER <br>YOUR BUSINESS</div>
+                                <p class="text-wrapper relative w-fit font-Montserrat font-medium text-[#727272] text-[20px] tracking-[0.20000000298023224px] leading-[30px] not-italic">We know how large objects will act, <br />but things on a small scale.</p>
+                                <div class="cta inline-flex items-start gap-[10px] relative grow-0 shrink-0 basis-auto ">
+                                    <div class="button-btn-primary inline-flex flex-col items-center gap-[10px] py-[10px] px-[36px] relative grow-0 shrink-0 basis-auto bg-[#ffa62b] rounded-[37px] truncate "><div class="btn-text relative w-fit mt-[-1.00px] font-Montserrat font-bold text-[#ffffff] text-[14px] text-center tracking-[0.20000000298023224px] leading-[28px] whitespace-nowrap not-italic">Get Quote Now</div></div>
+                                    <button class="btn-text-wrapper  box-border relative inline-flex py-[10px] px-[36px] rounded-[37px] border border-solid border-[#00a0c1] flex-col items-center gap-[10px]  grow-0 shrink-0 basis-auto truncate "><span class="div box-border relative w-fit mt-[-1.00px] font-Montserrat font-bold text-[#00a0c1] text-[14px] text-center tracking-[0.20000000298023224px] leading-[28px] whitespace-nowrap not-italic">Learn More</span></button>
+                                </div>
+                            </div>
+                            <div class="col-md-2 relative w-[510px] "></div>
+                        </div>
+                    </div>
+                    <div class="navbar-style relative w-[1322px] h-[104px] ">
+                        <div class="navbar-brand absolute w-[187px] h-[58px] top-[23px] left-[136px] "><div class="text-wrapper absolute top-[12px] left-0 font-Montserrat font-bold text-[#252b42] text-[24px] tracking-[0.10000000149011312px] leading-[32px] whitespace-nowrap not-italic ">Divestic</div></div>
+                        <div class="navbar-toggler absolute w-[24px] h-[14px] top-[45px] left-[1298px]  bg-size-[100% 100%]"><svg width="24" height="14" viewBox="0 0 24 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <g clip-path="url(#clip0_964_9229)">
+                                    <path d="M0.571533 0H23.4287  V2.28571H0.571533V0ZM6.28582 5.71429H23.4287V8H6.28582V5.71429ZM13.4287 11.4286H23.4287V13.7143H13.4287V11.4286Z" fill="#252B42"/>
+                                  </g>
+                              <defs>
+                              <clipPath id="clip0_964_9229">
+                              <rect width="24" height="13.7143" fill="white"/>
+                              </clipPath>
+                              </defs>
+                              </svg>
+                              </div>
+                        <div class="collapse-navbar absolute w-[280px] h-[24px] top-[40px] left-[359px] ">
+                          <div class="navbar-nav inline-flex items-center gap-[21px] relative ">
+                            <div class="li relative w-[45px] h-[24px] ">
+                              <div class="a relative h-[24px]"><div class="link absolute top-[-1px] left-0 font-Montserrat font-semibold text-[#00a0c1] text-[14px] text-center tracking-[0.20000000298023224px] leading-[24px] whitespace-nowrap not-italic">Home</div></div>
+                            </div>
+                            <div class="a-wrapper w-[60px] relative h-[24px] ">
+                              <div class="a relative h-[24px]"><div class="link absolute top-[-1px] left-0 font-Montserrat font-semibold text-[#00a0c1] text-[14px] text-center tracking-[0.20000000298023224px] leading-[24px] whitespace-nowrap not-italic">Product</div></div>
+                            </div>
+                            <div class="div-wrapper w-[53px] relative h-[24px]">
+                              <div class="a relative h-[24px]"><div class="link absolute top-[-1px] left-0 font-Montserrat font-semibold text-[#00a0c1] text-[14px] text-center tracking-[0.20000000298023224px] leading-[24px] whitespace-nowrap not-italic">Pricing</div></div>
+                            </div>
+                            <div class="div w-[59px] relative h-[24px] ">
+                              <div class="a relative h-[24px]"><div class="link absolute top-[-1px] left-0 font-Montserrat font-semibold text-[#00a0c1] text-[14px] text-center tracking-[0.20000000298023224px] leading-[24px] whitespace-nowrap not-italic">Contact</div></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+            </div>
+            <div class="features relative self-stretch w-full h-[651px] bg-[#ffffff] ">
+                <div class="div-2 inline-flex flex-col items-center py-[100px] px-0 relative left-[193px] ">
+                    <div class="row-wrapper flex flex-col w-[1050px] items-start py-[45px] px-0 relative grow-0 shrink-0 basis-auto ">
+                        <div class="main-content-wrapper flex flex-col w-[509px] items-start relative grow-0 shrink-0 basis-auto ">
+                            <div class="main-content flex w-[509px] items-start gap-[10px] grow-0 shrink-0 basis-auto flex-col relative ">
+                                <div class="h-2 relative w-fit mt-0 font-Montserrat font-bold text-[#252b42] text-[40px] tracking-wide leading-[57px] whitespace-nowrap not-italic ">WHY CHOOSE US</div>
+                                <p class="paragraph text-[#727272] relative w-fit font-Montserrat font-medium text-[14px] mt-16 tracking-wide leading-[20px] not-italic">
+                                    Problems trying to resolve the conflict between <br />the two major realms of Classical physics:
+                                    Newtonian mechanics
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container-2 inline-flex flex-col items-start gap-[30px] relative grow-0 shrink-0 basis-auto ">
+                        <div class="row-2 inline-flex items-center gap-[30px] relative grow-0 shrink-0 basis-auto ">
+                            <div class="card-item-wrapper w-[328px] items-start flex flex-col relative">
+                                <div class="card-item flex w-[328px] p-[20px] relative grow-0 shrink-0 basis-auto bg-[#f9f9f9] rounded-[2px] truncate border border-solid border-[#e2e2e2] shadow-[0px 2px 4px 0px #0000004d] flex-col items-start">
+                                    <div class="flex-row inline-flex items-center gap-[15px] relative grow-0 shrink-0 basis-auto ">
+                                        <div class="icn-circle-circle-md relative w-[72px] h-[72px] bg-[#00a0c1] rounded-[200px] truncate"><div class="icn-resize-icn-md relative w-[32px] h-[26px] top-[23px] left-[20px] bg-size-[100% 100%]"><svg width="32" height="27" viewBox="0 0 32 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_993_308)">
+                                        <path d="M28.3925 5.68369H25.0127V2.30395C25.0127 1.70637 24.7753 1.13327 24.3528 0.710718C23.9302 0.288167 23.3571 0.0507813 22.7596 0.0507812H9.24056C8.64299 0.0507813 8.06989 0.288167 7.64734 0.710718C7.22479 1.13327 6.9874 1.70637 6.9874 2.30395V5.68369H3.60765C2.71129 5.68369 1.85164 6.03977 1.21781 6.6736C0.583985 7.30742 0.227905 8.16708 0.227905 9.06344V24.8356C0.227905 25.4332 0.465291 26.0063 0.887842 26.4288C1.31039 26.8514 1.88349 27.0888 2.48107 27.0888H29.519C30.1166 27.0888 30.6897 26.8514 31.1123 26.4288C31.5348 26.0063 31.7722 25.4332 31.7722 24.8356V9.06344C31.7722 8.16708 31.4161 7.30742 30.7823 6.6736C30.1485 6.03977 29.2888 5.68369 28.3925 5.68369ZM9.24056 2.30395H22.7596V5.68369H9.24056V2.30395ZM29.519 24.8356H2.48107V14.6964H11.4937V20.3293H20.5064V14.6964H29.519V24.8356ZM13.7469 14.6964H18.2532V18.0761H13.7469V14.6964ZM2.48107 12.4432V9.06344C2.48107 8.76465 2.59976 8.4781 2.81104 8.26683C3.02231 8.05555 3.30886 7.93686 3.60765 7.93686H28.3925C28.6912 7.93686 28.9778 8.05555 29.1891 8.26683C29.4004 8.4781 29.519 8.76465 29.519 9.06344V12.4432H2.48107Z" fill="white"/>
+                                        </g>
+                                        <defs>
+                                        <clipPath id="clip0_993_308">
+                                        <rect width="32" height="27.1392" fill="white"/>
+                                        </clipPath>
+                                        </defs>
+                                        </svg>
+                                        </div></div>
+                                        <!-- svg end -->
+                                        <div class="h-wrapper inline-flex flex-col items-start relative grow-0 shrink-0 basis-auto "><div class="text-wrapper-2 relative w-fit -mt-px font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Digital Marketing</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="div-wrapper flex w-[329px] flex-col items-start relative ">
+                                <div class="card-item flex w-[328px] p-[20px] relative grow-0 shrink-0 basis-auto bg-[#f9f9f9] rounded-[2px] truncate border border-solid border-[#e2e2e2] shadow-[0px 2px 4px 0px #0000004d] flex-col items-start">
+                                    <div class="flex-row inline-flex items-center gap-[15px] relative grow-0 shrink-0 basis-auto ">
+                                        <div class="icn-circle-circle-md relative w-[72px] h-[72px] bg-[#00a0c1] rounded-[200px] truncate">
+                                            <div class="img-wrapper relative w-[32px] h-[26px] top-[23px] left-[20px] ">
+                                                <img class="ant-design-shop absolute w-[27px] h-[26px] top-0 left-[3px]" src="https://i.postimg.cc/T39JqTZ0/carbon-tool-box.png" />
+                                            </div>
+                                        </div>
+                                        <div class="h-wrapper inline-flex flex-col items-start relative grow-0 shrink-0 basis-auto"><div class="text-wrapper-2 relative w-fit -mt-px font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Digital Marketing</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="div-wrapper flex w-[329px] flex-col items-start relative ">
+                                <div class="card-item flex w-[328px] p-[20px] relative grow-0 shrink-0 basis-auto bg-[#f9f9f9] rounded-[2px] truncate border border-solid border-[#e2e2e2] shadow-[0px 2px 4px 0px #0000004d] flex-col items-start">
+                                    <div class="flex-row inline-flex items-center gap-[15px] relative grow-0 shrink-0 basis-auto ">
+                                        <div class="icn-circle-circle-md relative w-[72px] h-[72px] bg-[#00a0c1] rounded-[200px] truncate">
+                                            <div class="img-wrapper relative w-[32px] h-[26px] top-[23px] left-[20px]"><img class="carbon-notebook absolute w-[32px] h-[26px] top-0 left-[3px]" src="https://i.postimg.cc/WzL5YXSw/carbon-notebook.png" /></div>
+                                        </div>
+                                        <div class="h-wrapper inline-flex flex-col items-start relative grow-0 shrink-0 basis-auto"><div class="text-wrapper-2 relative w-fit -mt-px font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Web Development</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row-2 inline-flex items-start gap-[30px] relative grow-0 shrink-0 basis-auto ">
+                            <div class="card-item-wrapper w-[328px] items-start flex flex-col relative">
+                                <div class="card-item flex w-[328px] p-[20px] relative grow-0 shrink-0 basis-auto bg-[#f9f9f9] rounded-[2px] truncate border border-solid border-[#e2e2e2] shadow-[0px 2px 4px 0px #0000004d] flex-col items-start">
+                                    <div class="flex-row inline-flex items-center gap-[15px] relative grow-0 shrink-0 basis-auto">
+                                        <div class="icn-circle-circle-md relative w-[72px] h-[72px] bg-[#00a0c1] rounded-[200px] truncate">
+                                            <div class="img-wrapper relative w-[32px] h-[26px] top-[23px] left-[20px]"><img class="clarity-users-line absolute w-[30px] h-[26px] top-0 left-[1px]" src="https://i.postimg.cc/tgGRW6FL/clarity-users-line.png" /></div>
+                                        </div>
+                                        <div class="h-wrapper inline-flex flex-col items-start relative grow-0 shrink-0 basis-auto"><div class="text-wrapper-2 relative w-fit -mt-px font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">National top 50 firms</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="div-wrapper flex w-[329px] flex-col items-start relative">
+                                <div class="card-item flex w-[328px] p-[20px] relative grow-0 shrink-0 basis-auto bg-[#f9f9f9] rounded-[2px] truncate border border-solid border-[#e2e2e2] shadow-[0px 2px 4px 0px #0000004d] flex-col items-start">
+                                    <div class="flex-row inline-flex items-center gap-[15px] relative grow-0 shrink-0 basis-auto">
+                                        <div class="icn-circle-circle-md relative w-[72px] h-[72px] bg-[#00a0c1] rounded-[200px] truncate ">
+                                            <div class="img-wrapper relative w-[32px] h-[26px] top-[23px] left-[20px]"><img class="bx-bx-stats absolute w-[32px] h-[18px] top-[4px] left-0" src="https://i.postimg.cc/QdfGxW0Q/bx-bx-stats.png" /></div>
+                                        </div>
+                                        <div class="h-wrapper inline-flex flex-col items-start relative grow-0 shrink-0 basis-auto"><div class="text-wrapper-2 relative w-fit -mt-px font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">National top 50 firms</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="div-wrapper flex w-[329px] flex-col items-start relative">
+                                <div class="card-item flex w-[328px] p-[20px] relative grow-0 shrink-0 basis-auto bg-[#f9f9f9] rounded-[2px] truncate border border-solid border-[#e2e2e2] shadow-[0px 2px 4px 0px #0000004d] flex-col items-start">
+                                    <div class="flex-row inline-flex items-center gap-[15px] relative grow-0 shrink-0 basis-auto">
+                                        <div class="icn-circle-circle-md relative w-[72px] h-[72px] bg-[#00a0c1] rounded-[200px] truncate">
+                                            <div class="img-wrapper relative w-[32px] h-[26px] top-[23px] left-[20px]"><img class="fa-solid-award absolute w-[19px] h-[26px] top-0 left-[7px] " src="https://i.postimg.cc/7ZNkjWFZ/fa-solid-award.png" /></div>
+                                        </div>
+                                        <div class="h-wrapper inline-flex flex-col items-start relative grow-0 shrink-0 basis-auto"><div class="text-wrapper-2 relative w-fit -mt-px font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">National top 50 firms</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="about relative self-stretch w-[100%] h-[911px] top-0 left-[7px] ">
+                <div class="container-3 flex flex-col w-[1050px] items-start gap-[100px] py-[100px] px-0 relative left-[195px] truncate">
+                    <div class="row-3 flex flex-col w-[864px] items-center relative grow-0 shrink-0 basis-auto ">
+                        <div class="main-content-2 inline-flex items-center gap-[15px] grow-0 shrink-0 basis-auto flex-col relative">
+                            <p class="p text-[#252b42] text-center relative w-fit -mt-px font-Montserrat font-bold text-[40px] tracking-wide leading-[57px] not-italic">We are providing best <br />business service.</p>
+                            <p class="paragraph-2 relative w-fit font-Montserrat font-medium text-[#727272] text-[14px] text-center tracking-wide leading-[20px] not-italic">
+                                Problems trying to resolve the conflict between the two major realms <br />of Classical physics:
+                                Newtonian mechanics
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row-4 inline-flex items-center gap-[120px] mr-[-3.00px] relative grow-0 shrink-0 basis-auto ">
+                        <div class="col-md-3 w-[600px] items-center gap-[35px] flex flex-col relative">
+                            <div class="overlap-group-wrapper relative w-[597px] h-[442px] bg-[#ffffff] rounded-[5px] border border-solid border-[#dedede]">
+                                <div class="overlap-group-2 relative h-[442px] ">
+                                    <div class="media-bg-cover absolute w-[597px] h-[442px] top-0 left-0 bg-[url('https://i.postimg.cc/pThkSxRj/cover.png')] bg-cover bg-position-[50% 50%] "><div class="filter h-[442px] bg-linear-[180deg,#000000_15%,#383838d6_100%]"></div></div>
+                                    <div class="button-button-btn inline-flex items-center py-[34.8px] px-[36.8px] absolute top-[172px] left-[250px] bg-[#00a0c1] rounded-[73.6px] truncate"><img class="icn-play-icn-sm relative w-[24px] h-[28.8px]" src="https://i.postimg.cc/x8x6pP4s/icn-play-icn-sm.png" /></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 inline-flex gap-[30px] grow-0 shrink-0 basis-auto flex-col items-start relative">
+                            <div class="div-3 inline-flex flex-col items-start gap-[10px] py-[20px] px-0 relative grow-0 shrink-0 basis-auto">
+                                <p class="most-trusted-in-our relative w-fit -mt-px font-Montserrat font-extrabold text-[#252b42] text-[40px] tracking-wide leading-[57px] not-italic">Most trusted in <br />our field</p>
+                                <p class="most-calendars-are relative w-fit font-Montserrat font-medium text-[#737373] text-[14px] tracking-wide leading-[20px] not-italic">
+                                    Most calendars are designed for teams. Slate <br />is designed for freelancers who want a <br />simple
+                                    way to plan their schedule.
+                                </p>
+                            </div>
+                            <div class="flex-row-wrapper flex flex-col w-[333px] items-start relative grow-0 shrink-0 basis-auto rounded-[9px] truncate">
+                                <div class="flex-row-2 inline-flex items-start gap-[20px] relative grow-0 shrink-0 basis-auto ">
+                                    <img class="icn-settings-icn-md relative w-[32px] h-[32px]" src="https://i.postimg.cc/1XSxZPs8/icn-settings-icn-md.png" />
+                                    <div class="div-4 inline-flex flex-col items-start gap-[5px] relative grow-0 shrink-0 basis-auto">
+                                        <p class="h-3 relative w-fit -mt-px font-Montserrat font-bold text-[#252b42] text-[16px] tracking-wide leading-[24px] not-italic">the quick fox jumps over the lazy <br />dog</p>
+                                        <p class="h-4 relative w-fit text-[#727272] mb font-Montserrat font-semibold text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic ">Things on a very small scale ...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex-row-wrapper flex flex-col w-[333px] items-start relative grow-0 shrink-0 basis-auto rounded-[9px] truncate">
+                                <div class="flex-row-2 inline-flex items-start gap-[20px] relative grow-0 shrink-0 basis-auto">
+                                    <img class="icn-settings-icn-md relative w-[32px] h-[32px]" src="https://i.postimg.cc/d3gy0WNZ/icn-settings-icn-md-1.png" />
+                                    <div class="div-4 inline-flex flex-col items-start gap-[5px] relative grow-0 shrink-0 basis-auto">
+                                        <p class="h-3 relative w-fit -mt-px font-Montserrat font-bold text-[#252b42] text-[16px] tracking-wide leading-[24px] not-italic">the quick fox jumps over the lazy <br />dog</p>
+                                        <p class="h-4 relative w-fit text-[#727272] mb font-Montserrat font-semibold text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Things on a very small scale ...</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testimonials relative self-stretch w-[100%] h-[678px] bg-[#16697a] ">
+                <div class="container-4 flex flex-col w-[1410px] items-center gap-[50px] py-[80px] px-0 relative left-[15px] ">
+                    <div class="row-3 flex flex-col w-[864px] items-center relative grow-0 shrink-0 basis-auto">
+                        <div class="main-content-3 flex flex-col w-[864px] items-center gap-[10px] relative grow-0 shrink-0 basis-auto ">
+                            <div class="h-5 text-[#ffffff] whitespace-nowrap relative w-fit -mt-px font-Montserrat font-bold text-[40px] tracking-wide leading-[57px] not-italic ">What Clients Say</div>
+                            <p class="paragraph-3 text-[#ffffff] mt-10 text-center relative w-fit font-Montserrat font-medium text-[14px] tracking-wide leading-[20px] not-italic">
+                                Problems trying to resolve the conflict between <br />the two major realms of Classical physics:
+                                Newtonian mechanics
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row-5 inline-flex items-center gap-[30px] ml-[-156.50px] mr-[-156.50px] relative grow-0 shrink-0 basis-auto">
+                        <div class="col-md-5 flex flex-col w-[566px] items-center relative truncate">
+                            <div class="card-item-2 relative w-[602px] h-[361px] ml-[-18.00px] mr-[-18.00px] rounded-[5px] ">
+                                <div class="overlap-group-3 relative w-[554px] h-[288px] top-[40px] left-[25px] ">
+                                    <div class="card-content inline-flex gap-[15px] py-[30px] px-[60px] absolute top-0 left-[64px] bg-[#ffffff] flex-col items-start ">
+                                        <div class="group relative w-[161px] h-[56px] ">
+                                            <div class="h-6 absolute top-0 left-0 font-Montserrat font-bold text-[#252b42] text-[24px] tracking-wide leading-[30px] not-italic">Regina Miles</div>
+                                            <div class="h-7 absolute top-[32px] left-0 text-[#727272] font-Montserrat font-semibold text-[14px] tracking-wide leading-[28px] whitespace-nowrap not-italic">Designer</div>
+                                        </div>
+                                        <div class="stars relative w-[110.07px] h-[22px] ">
+                                            <img class="icn-bxs-star w-[12px] left-[10px] absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="img absolute w-[22px] h-[22px] top-0 left-[22px] " src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bxs-star-2 w-[22px] left-[44px] absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bxs-star-3 w-[22px] left-[66px] absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bx-star absolute w-[22px] h-[22px] top-0 left-[88px] " src="https://i.postimg.cc/GhgVhvjP/icn-bx-star.png" />
+                                        </div>
+                                        <p class="paragraph text-[#727272] relative w-fit font-Montserrat font-medium text-[14px] mt-16 tracking-wide leading-[20px] not-italic">
+                                            This proved to be impossible using the traditional <br />concepts of space and time. Einstein
+                                            developed a <br />new view of time first and then space. This proved <br />to be impossible using
+                                            the traditional concepts of <br />space and time. Einstein developed a new view <br />of time
+                                            first and then space.
+                                        </p>
+                                    </div>
+                                    <div class="circle-box absolute w-[96px] h-[96px] top-[28px] left-0 rounded-[200px] truncate"><img class="cover absolute w-[96px] h-[96px] top-[3571px] left-[-1598px] object-cover" src="https://i.postimg.cc/5Ng9Thx7/cover-7.png" /></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 w-[548px] items-center truncate flex flex-col relative ">
+                            <div class="card-item-3 relative w-[602px] h-[361px] ml-[-27.00px] mr-[-27.00px] rounded-[5px] ">
+                                <div class="overlap-group-3 relative w-[554px] h-[288px] top-[40px] left-[25px]">
+                                    <div class="card-content inline-flex gap-[15px] py-[30px] px-[60px] absolute top-0 left-[64px] bg-[#ffffff] flex-col items-start">
+                                        <div class="group relative w-[161px] h-[56px]">
+                                            <div class="h-6 absolute top-0 left-0 font-Montserrat font-bold text-[#252b42] text-[24px] tracking-wide leading-[30px] not-italic">Regina Miles</div>
+                                            <div class="h-7 absolute top-[32px] left-0 text-[#727272] font-Montserrat font-semibold text-[14px] tracking-wide leading-[28px] whitespace-nowrap not-italic">Designer</div>
+                                        </div>
+                                        <div class="stars relative w-[110.07px] h-[22px]">
+                                            <img class="icn-bxs-star-4 w-[22px] left-0 absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="img absolute w-[22px] h-[22px] top-0 left-[22px]" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bxs-star-2 w-[22px] left-[44px] absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bxs-star-3 w-[22px] left-[66px] absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bx-star absolute w-[22px] h-[22px] top-0 left-[88px]" src="https://i.postimg.cc/GhgVhvjP/icn-bx-star.png" />
+                                        </div>
+                                        <p class="paragraph text-[#727272] relative w-fit font-Montserrat font-medium text-[14px] mt-16 tracking-wide leading-[20px] not-italic">
+                                            This proved to be impossible using the traditional <br />concepts of space and time. Einstein
+                                            developed a <br />new view of time first and then space. This proved <br />to be impossible using
+                                            the traditional concepts of <br />space and time. Einstein developed a new view <br />of time
+                                            first and then space.
+                                        </p>
+                                    </div>
+                                    <div class="circle-box absolute w-[96px] h-[96px] top-[28px] left-0 rounded-[200px] truncate "><img class="cover-2 absolute w-[94px] h-[96px] top-0 left-[2px] object-cover" src="https://i.postimg.cc/fWPDf2F0/cover-2.png" /></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-7 w-[549px] truncate flex flex-col items-center relative ">
+                            <div class="card-item-4 relative w-[602px] h-[361px] ml-[-26.50px] mr-[-26.50px] rounded-[5px] ">
+                                <div class="overlap-group-3 relative w-[554px] h-[288px] top-[40px] left-[25px]">
+                                    <div class="card-content inline-flex gap-[15px] py-[30px] px-[60px] absolute top-0 left-[64px] bg-[#ffffff] flex-col items-start">
+                                        <div class="group relative w-[161px] h-[56px]">
+                                            <div class="h-6 absolute top-0 left-0 font-Montserrat font-bold text-[#252b42] text-[24px] tracking-wide leading-[30px] not-italic">Regina Miles</div>
+                                            <div class="h-7 absolute top-[32px] left-0 text-[#727272] font-Montserrat font-semibold text-[14px] tracking-wide leading-[28px] whitespace-nowrap not-italic">Designer</div>
+                                        </div>
+                                        <div class="stars relative w-[110.07px] h-[22px]">
+                                            <img class="icn-bxs-star-4 w-[22px] left-0 absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="img absolute w-[22px] h-[22px] top-0 left-[22px]" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bxs-star-2 w-[22px] left-[44px] absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bxs-star-3 w-[22px] left-[66px] absolute h-[22px] top-0" src="https://i.postimg.cc/NMNLPN12/icn-bxs-star.png" />
+                                            <img class="icn-bx-star absolute w-[22px] h-[22px] top-0 left-[88px]" src="https://i.postimg.cc/GhgVhvjP/icn-bx-star.png" />
+                                        </div>
+                                        <p class="paragraph text-[#727272] relative w-fit font-Montserrat font-medium text-[14px] mt-16 tracking-wide leading-[20px] not-italic">
+                                            This proved to be impossible using the traditional <br />concepts of space and time. Einstein
+                                            developed a <br />new view of time first and then space. This proved <br />to be impossible using
+                                            the traditional concepts of <br />space and time. Einstein developed a new view <br />of time
+                                            first and then space.
+                                        </p>
+                                    </div>
+                                    <div class="circle-box absolute w-[96px] h-[96px] top-[28px] left-0 rounded-[200px] truncate"><img class="cover-2 absolute w-[94px] h-[96px] top-0 left-[2px] object-cover" src="https://i.postimg.cc/vBcHGpkb/cover-3.png" /></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="team relative self-stretch w-[100%] h-[608px] bg-[#f9f9f9]">
+                <div class="container-5 flex flex-col w-[1050px] items-center gap-[50px] py-[80px] px-0 relative left-[195px] ">
+                    <div class="row-3 flex flex-col w-[864px] items-center relative grow-0 shrink-0 basis-auto">
+                        <div class="main-content-3 flex flex-col w-[864px] items-center gap-[10px] relative grow-0 shrink-0 basis-auto">
+                            <div class="h-2 relative w-fit mt-0 font-Montserrat font-bold text-[#252b42] text-[40px] tracking-wide leading-[57px] whitespace-nowrap not-italic">Meet Our Team</div>
+                            <p class="paragraph-2 relative mt-12 w-fit font-Montserrat font-medium text-[#727272] text-[14px] text-center tracking-wide leading-[20px] not-italic">
+                                Problems trying to resolve the conflict between <br />the two major realms of Classical physics:
+                                Newtonian mechanics
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row-6 inline-flex items-start gap-[30px] relative grow-0 shrink-0 basis-auto">
+                        <div class="col-md-8 flex w-[238px] items-center flex-col relative">
+                            <div class="card-item-5 flex flex-col w-[230px] items-start gap-[5px] py-[30px] px-[40px] relative grow-0 shrink-0 basis-auto bg-[#ffffff]">
+                                <div class="circle-box-2 relative w-[128px] h-[128px] rounded-[200px] bg-[url('https://i.postimg.cc/65v88WN8/cover-8.png')] bg-cover bg-position-[50% 50%]"></div>
+                                <div class="h-8 relative w-fit text-[#ffa62b] text-center font-Montserrat font-semibold text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Consultant</div>
+                                <div class="h-9 text-center whitespace-nowrap relative w-fit font-Montserrat font-bold text-[#252b42] text-[16px] tracking-wide leading-[24px] not-italic">Rodney Stratton</div>
+                                <p class="paragraph-2 relative mt-12 w-fit font-Montserrat font-medium text-[#727272] text-[14px] text-center tracking-wide leading-[20px] not-italic">the quick fox jumps <br />over the lazy dog</p>
+                            </div>
+                        </div>
+                        <div class="col-md-9 flex w-[241px] items-center flex-col relative">
+                            <div class="card-item-5 flex flex-col w-[230px] items-start gap-[5px] py-[30px] px-[40px] relative grow-0 shrink-0 basis-auto bg-[#ffffff]">
+                                <div class="circle-box-3 relative w-[128px] h-[128px] rounded-[200px] bg-[url('https://i.postimg.cc/5Ng9Thx7/cover-7.png')] bg-cover bg-position-[50% 50%]"></div>
+                                <div class="h-8 relative w-fit text-[#ffa62b] text-center font-Montserrat font-semibold text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">CO Founder</div>
+                                <div class="h-9 text-center whitespace-nowrap relative w-fit font-Montserrat font-bold text-[#252b42] text-[16px] tracking-wide leading-[24px] not-italic">Avie Beaton</div>
+                                <p class="paragraph-2 relative mt-12 w-fit font-Montserrat font-medium text-[#727272] text-[14px] text-center tracking-wide leading-[20px] not-italic">the quick fox jumps <br />over the lazy dog</p>
+                            </div>
+                        </div>
+                        <div class="col-md-10 w-[240px] items-center flex flex-col relative">
+                            <div class="card-item-5 flex flex-col w-[230px] items-start gap-[5px] py-[30px] px-[40px] relative grow-0 shrink-0 basis-auto bg-[#ffffff]">
+                                <div class="circle-box-4 relative w-[128px] h-[128px] rounded-[200px] bg-[url('https://i.postimg.cc/BvGsBHP9/cover-9.png')] bg-cover bg-position-[50% 50%]"></div>
+                                <div class="h-8 relative w-fit text-[#ffa62b] text-center font-Montserrat font-semibold text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">CEO</div>
+                                <div class="h-9 text-center whitespace-nowrap relative w-fit font-Montserrat font-bold text-[#252b42] text-[16px] tracking-wide leading-[24px] not-italic">Ashley Fletcher</div>
+                                <p class="paragraph-2 relative mt-12 w-fit font-Montserrat font-medium text-[#727272] text-[14px] text-center tracking-wide leading-[20px] not-italic">the quick fox jumps <br />over the lazy dog</p>
+                            </div>
+                        </div>
+                        <div class="col-md-10 w-[240px] items-center flex flex-col relative">
+                            <div class="card-item-5 flex flex-col w-[230px] items-start gap-[5px] py-[30px] px-[40px] relative grow-0 shrink-0 basis-auto bg-[#ffffff]">
+                                <div class="circle-box-5 relative w-[128px] h-[128px] rounded-[200px] bg-[url('https://i.postimg.cc/gj5bXZb7/cover-10.png')] bg-cover bg-position-[50% 50%]"></div>
+                                <div class="h-8 relative w-fit text-[#ffa62b] text-center font-Montserrat font-semibold text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Consultant</div>
+                                <div class="h-9 text-center whitespace-nowrap relative w-fit font-Montserrat font-bold text-[#252b42] text-[16px] tracking-wide leading-[24px] not-italic">Rodney Stratton</div>
+                                <p class="paragraph-2 relative mt-12 w-fit font-Montserrat font-medium text-[#727272] text-[14px] text-center tracking-wide leading-[20px] not-italic">the quick fox jumps <br />over the lazy dog</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="contact relative self-stretch w-[100%] h-[1223px] bg-[#f9f9f9]">
+                <div class="overlap relative w-[1440px] h-[1223px] ">
+                    <div class="background-2 absolute w-[1440px] h-[807px] top-0 left-0 bg-[#252b42]"></div>
+                    <div class="container-6 flex flex-col w-[1050px] items-start gap-[50px] py-[50px] px-0 absolute top-0 left-[195px] ">
+                        <div class="row-2 inline-flex items-center gap-[30px] relative grow-0 shrink-0 basis-auto">
+                            <div class="col-md-11 w-[602px] items-start gap-[15px] py-[50px] px-0 flex flex-col relative">
+                                <p class="h-10 text-[#ffffff] relative w-fit -mt-px font-Montserrat font-bold text-[40px] tracking-wide leading-[57px] not-italic">We Have Branches All <br />Over The World</p>
+                                <p class="paragraph-4 text-[#ffffff] mt-24 relative w-fit font-Montserrat font-medium text-[14px] tracking-wide leading-[20px] not-italic">
+                                    The gradual accumulation of information about atomic and <br />small-scale behaviour during the first
+                                    quarter of the 20th <br />century, which gave some indications about how small things <br />do behave,
+                                    produced an increasing confusion which was <br />Heisenberg, and Born.
+                                </p>
+                            </div>
+                            <div class="pngwing-wrapper w-[416px] gap-[14px] py-[50px] px-0 flex flex-col items-center relative"><img class="pngwing relative w-[414.5px] h-[169.1px] object-cover" src="https://i.postimg.cc/rFcPjjQ9/pngwing-1.png" /></div>
+                        </div>
+                        <div class="row-7 inline-flex items-center py-[50px] px-0 -ml-px -mr-px relative grow-0 shrink-0 basis-auto">
+                            <div class="main-content-4 flex w-[1052px] items-center gap-[30px] flex-col relative">
+                                <div class="card-item-6 inline-flex items-start relative grow-0 shrink-0 basis-auto">
+                                    <div class="media relative self-stretch w-[364px] bg-[url('https://i.postimg.cc/902JxXtf/cover-11.png')] bg-cover bg-position-[50% 50%]"></div>
+                                    <div class="div-5 flex flex-col w-[688px] items-start gap-[40px] py-[40px] px-[50px] relative bg-[#ffffff]">
+                                        <p class="h-2 relative w-fit mt-0 font-Montserrat font-bold text-[#252b42] text-[40px] tracking-wide leading-[57px] whitespace-nowrap not-italic">Get A Free Quote Here</p>
+                                        <div class="card-content-2 flex flex-col items-start gap-[5px] relative self-stretch w-[100%] grow-0 shrink-0 basis-auto bg-[#ffffff] rounded-[1px] truncate">
+                                            <div class="form-group relative self-stretch w-[100%] h-[91px] ">
+                                                <label class="form-control absolute -top-1 left-0 font-Montserrat font-semibold text-[#252b42] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic" for="input-1">Name*</label>
+                                                <div class="form-control-input absolute w-[585px] h-[50px] top-[34px] left-[2px] ">
+                                                    <input class="input-form-control relative h-[50px] bg-[#f8f8f8] rounded-[5px] truncate border border-solid border-[#bdbdbd] font-Montserrat-Regular font-normal text-[#727272] text-[14px] tracking-wide leading-[28px] whitespace-nowrap p-0 pl-[21px] " placeholder="Full Name" type="text" id="input-1" />
+                                                </div>
+                                            </div>
+                                            <div class="form-group relative self-stretch w-[100%] h-[91px]">
+                                                <label class="form-control absolute -top-1 left-0 font-Montserrat font-semibold text-[#252b42] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic" for="input-2">Email*</label>
+                                                <div class="form-control-input absolute w-[585px] h-[50px] top-[34px] left-[2px]">
+                                                    <input class="input-form-control relative h-[50px] bg-[#f8f8f8] rounded-[5px] truncate border border-solid border-[#bdbdbd] font-Montserrat-Regular font-normal text-[#727272] text-[14px] tracking-wide leading-[28px] whitespace-nowrap p-0 pl-[21px] " placeholder="example@gmail.com" type="email" id="input-2" />
+                                                </div>
+                                            </div>
+                                            <div class="form-group-custom relative self-stretch w-[100%] h-[86px] ">
+                                                <div class="form-control absolute -top-1 left-0 font-Montserrat font-semibold text-[#252b42] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Department *</div>
+                                                <div class="custom-select absolute w-[588px] h-[50px] top-[36px] left-0">
+                                                    <div class="select h-[50px] bg-[#ffffff] ">
+                                                        <div class="option relative w-[588px] h-[50px] bg-[#f8f8f8] rounded-[5px] truncate border border-solid border-[#bdbdbd]">
+                                                            <div class="dropdown absolute top-[10px] left-[18px] font-Montserrat-Regular font-normal text-[#727272] text-[14px] tracking-wide leading-[28px] whitespace-nowrap">Please Select</div>
+                                                            <img class="vector absolute w-[14px] h-[8px] top-[21px] left-[554px] " src="https://i.postimg.cc/sXKbZ0hx/Vector.png" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group-custom relative self-stretch w-[100%] h-[86px]">
+                                                <div class="form-control absolute -top-1 left-0 font-Montserrat font-semibold text-[#252b42] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Time *</div>
+                                                <div class="custom-select absolute w-[588px] h-[50px] top-[36px] left-0">
+                                                    <div class="select h-[50px] bg-[#ffffff]">
+                                                        <div class="option relative w-[588px] h-[50px] bg-[#f8f8f8] rounded-[5px] truncate border border-solid border-[#bdbdbd]">
+                                                            <div class="dropdown absolute top-[10px] left-[18px] font-Montserrat-Regular font-normal text-[#727272] text-[14px] tracking-wide leading-[28px] whitespace-nowrap">4:00 Available</div>
+                                                            <img class="vector absolute w-[14px] h-[8px] top-[21px] left-[554px]" src="https://i.postimg.cc/sXKbZ0hx/Vector.png" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="button-btn-primary-2 flex py-[15px] px-[40px] self-stretch w-[100%] bg-[#ffa62b] rounded-[5px] flex-col items-center gap-[10px] relative grow-0 shrink-0 basis-auto truncate"><div class="btn-text relative w-fit mt-[-1.00px] font-Montserrat font-bold text-[#ffffff] text-[14px] text-center tracking-[0.20000000298023224px] leading-[28px] whitespace-nowrap not-italic">Book Appointment</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer relative self-stretch w-[100%] h-[414px] bg-[#f9f9f9]">
+                <div class="container-wrapper absolute w-[1440px] h-[338px] top-0 left-0 bg-[#ffffff]">
+                    <div class="container-7 flex flex-col w-[1050px] items-center gap-[80px] py-[80px] px-0 relative left-[195px] ">
+                        <div class="row-6 inline-flex items-start gap-[30px] relative grow-0 shrink-0 basis-auto">
+                            <div class="col-md-12 flex w-[238px] items-start gap-[25px] flex-col relative ">
+                                <div class="h-11 relative w-fit -mt-px font-Montserrat font-bold text-[#252b42] text-[24px] tracking-wide leading-[32px] whitespace-nowrap not-italic">Get In Touch</div>
+                                <p class="paragraph text-[#727272] relative w-fit font-Montserrat font-medium text-[14px] mt-16 tracking-wide leading-[20px] not-italic">the quick fox jumps over the <br />lazy dog</p>
+                                <div class="social-media inline-flex items-center gap-[20px] relative grow-0 shrink-0 basis-auto ">
+                                    <img class="img-2 relative w-[24px] h-[24px] " src="https://i.postimg.cc/vTKY5mV4/ant-design-facebook-filled.png" />
+                                    <img class="img-2 relative w-[24px] h-[24px]" src="https://i.postimg.cc/Dwrhw6BJ/ant-design-instagram-outlined.png" />
+                                    <img class="ant-design-twitter relative w-[24px] h-[19.76px] " src="https://i.postimg.cc/HxVsn5rq/ant-design-twitter-outlined.png" />
+                                    <img class="carbon-logo-youtube relative w-[24px] h-[17.68px]" src="https://i.postimg.cc/W3Bj4yLZ/carbon-logo-youtube.png" />
+                                </div>
+                            </div>
+                            <div class="col-md-13 flex w-[241px] items-start gap-[20px] flex-col relative">
+                                <div class="h-11 relative w-fit -mt-px font-Montserrat font-bold text-[#252b42] text-[24px] tracking-wide leading-[32px] whitespace-nowrap not-italic">Company info</div>
+                                <div class="div-6 inline-flex flex-col items-start gap-[10px] relative grow-0 shrink-0 basis-auto ">
+                                    <div class="link relative w-fit -mt-px font-Montserrat font-semibold text-[#7272727] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">About Us</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Carrier</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">We are hiring</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Blog</div>
+                                </div>
+                            </div>
+                            <div class="col-md-14 flex w-[240px] items-start gap-[20px] flex-col relative ">
+                                <div class="h-11 relative w-fit -mt-px font-Montserrat font-bold text-[#252b42] text-[24px] tracking-wide leading-[32px] whitespace-nowrap not-italic">Features</div>
+                                <div class="div-6 inline-flex flex-col items-start gap-[10px] relative grow-0 shrink-0 basis-auto">
+                                    <div class="link relative w-fit -mt-px font-Montserrat font-semibold text-[#7272727] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Business Marketing</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">User Analytic</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Live Chat</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Unlimited Support</div>
+                                </div>
+                            </div>
+                            <div class="col-md-15 inline-flex items-start gap-[20px] grow-0 shrink-0 basis-auto flex-col relative ">
+                                <div class="h-11 relative w-fit -mt-px font-Montserrat font-bold text-[#252b42] text-[24px] tracking-wide leading-[32px] whitespace-nowrap not-italic">Resources</div>
+                                <div class="div-6 inline-flex flex-col items-start gap-[10px] relative grow-0 shrink-0 basis-auto">
+                                    <div class="link relative w-fit -mt-px font-Montserrat font-semibold text-[#7272727] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">IOS &amp; Android</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Watch a Demo</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Customers</div>
+                                    <div class="link-2 relative w-fit font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">API</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="div-7 absolute w-[1440px] h-[76px] top-[338px] left-0 bg-[#f9f9f9]">
+                    <div class="container-8 flex-col w-[1050px] items-center py-[25px] px-0 relative left-[195px] ">
+                        <div class="col-md-wrapper inline-flex items-center gap-[213px] relative grow-0 shrink-0 basis-auto">
+                            <div class="col-md-16 flex flex-col w-[513px] items-center relative"><p class="text-wrapper-2 relative w-fit -mt-px font-Montserrat font-semibold text-[#727272] text-[14px] tracking-wide leading-[24px] whitespace-nowrap not-italic">Made With Love By Figmaland All Right Reserved</p></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
